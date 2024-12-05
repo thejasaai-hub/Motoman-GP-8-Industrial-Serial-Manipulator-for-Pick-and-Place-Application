@@ -70,3 +70,5 @@ enhance troubleshooting skills, and understand the impact of automation in indus
 The implementation of the Motoman GP-8 Industrial Serial Manipulator for pick and place operations were 
 successfully completed. This project provided valuable insights into automation, programming, and real-world 
 applications of industrial robotics.
+
+![Motoman_GP8](MOTOMAN_GP8.jpeg)
